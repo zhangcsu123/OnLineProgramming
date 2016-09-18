@@ -1,10 +1,10 @@
-package com.niuke.learn;
+package com.huawei.learn;
 
 import java.util.Scanner;
 /**
  * Created by csu118 on 2016/9/1.
  */
-public class Demo_blank {
+public class Blank_Demo {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

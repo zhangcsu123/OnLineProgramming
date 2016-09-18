@@ -1,12 +1,11 @@
 package com.offer;
 
 import java.util.ArrayList;
-import java.util.Stack;
 
 /**
  * Created by csu118 on 2016/9/15.
  */
-public class PrintLink {
+public class PrintLink_Demo {
     ArrayList<Integer> arrayList=new ArrayList<Integer>();
     public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
         if(listNode!=null){
