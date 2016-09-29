@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by zhang on 2016/9/17.
  */
-public class demo {
+public class Demo_differentialOfMaxAndMin {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         while(sc.hasNext())
